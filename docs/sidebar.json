@@ -1,5 +1,5 @@
 {
-  "lazy_lib": {
+  "lazy": {
     "Overview": "/",
     "module name here": "/core"
   }

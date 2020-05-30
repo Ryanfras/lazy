@@ -6,8 +6,8 @@ index = {"explore_df": "00_core.ipynb"}
 
 modules = ["core.py"]
 
-doc_url = "https://ryanfras.github.io/lazy_lib/"
+doc_url = "https://ryanfras.github.io/lazy/"
 
-git_url = "https://github.com/ryanfras/lazy_lib/tree/master/"
+git_url = "https://github.com/ryanfras/lazy/tree/master/"
 
 def custom_doc_links(name): return None
